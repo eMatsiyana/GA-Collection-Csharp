@@ -1,4 +1,4 @@
 GA-Collection-C-
 ================
 
-Google Analytics - Custom Csharp Class to track Pageviews and Track events
+Google Analytics - Custom C# Class to track Pageviews and Track events
